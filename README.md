@@ -2,7 +2,7 @@
 Data Analyst focused on data driven decision making. Experienced in building Power BI dashboards, querying and analyzing data with SQL, managing data warehouses, and developing SQL-based pipelines with Python.
 
 
-## 🌐 Socials:
+## 🌐 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-hopgood-9a0714278/) 
 
 # 💻 Tech Stack:
