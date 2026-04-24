@@ -11,9 +11,9 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 
 **The Tech**
 
-  * Data Analysis:
-  * Data Visualization:
-  * Data Engineering/Cleanning:
+   * Data Analysis:
+   * Data Visualization:
+   * Data Engineering/Cleanning:
 * **Key Result:**
 ---
 
