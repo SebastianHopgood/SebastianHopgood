@@ -7,14 +7,19 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 ## 📂 Projects
 **Olist 360 End-to-End Ecommerce Analytics**
 
-* **The Goal:**
+**The Goal:**
+
+*ewse
 
 **The Tech**
 
 * Data Analysis:
 * Data Visualization:
 * Data Engineering/Cleanning:
->* **Key Result:**
+
+**Key Result:**
+
+* eses
 ---
 
 ## 📜 Certifications
