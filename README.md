@@ -10,10 +10,10 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 * **The Goal:**
 
 **The Tech**
-* Data Analysis:
 
-* Data Visualization:
-* Data Engineering/Cleanning:
+  * Data Analysis:
+  * Data Visualization:
+  * Data Engineering/Cleanning:
 * **Key Result:**
 ---
 
