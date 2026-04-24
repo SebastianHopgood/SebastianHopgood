@@ -21,7 +21,6 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 **Key Result:**
 
 * eses
----
 
 ## 📜 Certifications
 - Google Data Analytics Professional Certificate
