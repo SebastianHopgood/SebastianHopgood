@@ -21,7 +21,10 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 
 **Key Result:**
 
-* eses
+* Uncovered a ~1.5★ drop in customer ratings caused by shipping delays, identifying a critical experience risk
+* Pinpointed high-demand regions with low seller coverage, revealing clear expansion opportunities
+* Identified top-performing categories and sellers driving the majority of revenue, guiding strategic focus
+* Recommended operational improvements to reduce delays and improve delivery accuracy
 
 ## 📜 Certifications
 - Google Data Analytics Professional Certificate
