@@ -8,15 +8,16 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 
 ### **Olist 360 End-to-End Ecommerce Analytics**
 
-**The Goal:**
+**The Goal:** 
 
-*ewse
+* Deliver a 360° analytical view of marketplace performance to drive revenue growth, improve logistics efficiency, enhance customer satisfaction, and optimize seller expansion strategy
 
 **The Tech**
 
-* Data Analysis:
-* Data Visualization:
-* Data Engineering/Cleanning:
+* Data Analysis: SQL (BigQuery), Power BI
+* Data Visualization: Power BI
+* Data Engineering/Cleanning: EXCEL, SQL
+* Version Control: VS Code Git/Github
 
 **Key Result:**
 
