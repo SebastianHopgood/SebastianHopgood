@@ -26,6 +26,8 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 * Geographic Market Gap: Uncovered that high-demand regions (SP, MG, PR, RJ, SC) are underserved by the current seller distribution (ranking only 11/27), revealing a massive recruitment opportunity.
 * Operational Efficiency: Achieved 92.1% delivery promise accuracy but identified critical seasonal bottlenecks during Q1 and Q4 that threaten customer satisfaction.
 
+---
+
 ### **Bank Customer Churn Analysis**
 
 **The Goal:**
