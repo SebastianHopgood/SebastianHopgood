@@ -10,23 +10,39 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 
 **The Goal:** 
 
-* Deliver a 360° analytical view of marketplace performance to drive revenue growth, improve logistics efficiency, enhance customer satisfaction, and optimize seller expansion strategy
+* Deliver a 360° analytical view of marketplace performance to drive revenue growth, improve logistics efficiency, enhance customer satisfaction, and optimize seller expansion strategy.
 
-**The Tech**
+**The Tech:**
 
-* Data Analysis: SQL (BigQuery), Power BI
-* Data Visualization: Power BI
-* Data Engineering/Cleanning: EXCEL, SQL
-* Version Control: VS Code Git/Github
+* **SQL (BigQuery):** The project backbone. Used for data warehousing, complex multi-table joins, and building ETL pipelines to establish a structured Star Schema.
+* **Power BI:** Developed an interactive, multi-page dashboard leveraging DAX for custom KPIs, time-intelligence metrics, and advanced visualizations.
+* **Excel:** Performed initial data auditing and used as a bridge for importing raw CSV files into the SQL environment.
+* **Git/GitHub:** Managed Version Control for code scripts and documentation, using VS Code to maintain a clean project workflow.
 
-**Key Result:**
+**Key Results:**
 
-* Uncovered a ~1.5★ drop in customer ratings caused by shipping delays, identifying a critical experience risk
-* Pinpointed high-demand regions with low seller coverage, revealing clear expansion opportunities
-* Identified top-performing categories and sellers driving the majority of revenue, guiding strategic focus
-* Recommended operational improvements to reduce delays and improve delivery accuracy
+* Logistics & Customer Experience: Quantified a direct link between shipping delays and sentiment; discovered that while the average rating is 4.0, a 6+ day delay causes ratings to collapse to 1.5 stars.
+* Sales Strategy: Identified that the Top 5 categories (e.g., Bed Bath Table, Health Beauty) dominate 38.9% of total revenue, with Health Beauty showing the most consistent growth trajectory.
+* Geographic Market Gap: Uncovered that high-demand regions (SP, MG, PR, RJ, SC) are underserved by the current seller distribution (ranking only 11/27), revealing a massive recruitment opportunity.
+* Operational Efficiency: Achieved 92.1% delivery promise accuracy but identified critical seasonal bottlenecks during Q1 and Q4 that threaten customer satisfaction.
 
-### ** 
+### **Bank Customer Churn Analysis**
+
+**The Goal:**
+
+* To identify the drivers of a 20.4% churn rate and protect $384M in balance at risk, specifically targeting high-chrun segments like the German market and middle-aged female customers.
+
+**The Tech:**
+
+* **SQL:** Data cleaning, data exploration, warehousing, identifying customer churn causes, and developing a customer risk calculator.
+* **Power BI:** Interactive dashboard, DAX KPIs, market overview insights, customer churn visualizations, and filters/slicers.
+* **Excel:** Initial data auditing, validation, and loading.
+
+**Key Results:**
+* **Identified "Critical Risk" Profile:** Isolated a high-churn segment (41.7% attrition) consisting of female customers in Germany, aged 40–59, with high balances and low activity.
+* **Geographic Concentration:** Determined that Germany is the highest-risk market, accounting for more churn than France and Spain combined.
+* **Product Engagement "Sweet Spot":** Discovered that customers holding 2–3 products have the highest retention rates, while single-product holders and those with 4+ products are significantly more likely to leave.
+* **Financial Impact:** Mapped the correlation between high account balances and churn risk, highlighting the urgency of protecting the bank's top-tier capital.
 
 ## 📜 Certifications
 - Google Data Analytics Professional Certificate
