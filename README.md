@@ -26,6 +26,8 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 * Identified top-performing categories and sellers driving the majority of revenue, guiding strategic focus
 * Recommended operational improvements to reduce delays and improve delivery accuracy
 
+### ** 
+
 ## 📜 Certifications
 - Google Data Analytics Professional Certificate
 - How To Visualize Your Data Using Mircosoft Powerpoint/Storytelling
