@@ -21,10 +21,10 @@ Data Analyst focused on data driven decision making. Experienced in building Pow
 
 **Key Results:**
 
-* Logistics & Customer Experience: Quantified a direct link between shipping delays and sentiment; discovered that while the average rating is 4.0, a 6+ day delay causes ratings to collapse to 1.5 stars.
-* Sales Strategy: Identified that the Top 5 categories (e.g., Bed Bath Table, Health Beauty) dominate 38.9% of total revenue, with Health Beauty showing the most consistent growth trajectory.
-* Geographic Market Gap: Uncovered that high-demand regions (SP, MG, PR, RJ, SC) are underserved by the current seller distribution (ranking only 11/27), revealing a massive recruitment opportunity.
-* Operational Efficiency: Achieved 92.1% delivery promise accuracy but identified critical seasonal bottlenecks during Q1 and Q4 that threaten customer satisfaction.
+* **Logistics & Customer Experience:** Quantified a direct link between shipping delays and sentiment; discovered that while the average rating is 4.0, a 6+ day delay causes ratings to collapse to 1.5 stars.
+* **Sales Strategy:** Identified that the Top 5 categories (e.g., Bed Bath Table, Health Beauty) dominate 38.9% of total revenue, with Health Beauty showing the most consistent growth trajectory.
+* **Geographic Market Gap:** Uncovered that high-demand regions (SP, MG, PR, RJ, SC) are underserved by the current seller distribution (ranking only 11/27), revealing a massive recruitment opportunity.
+* **Operational Efficiency:** Achieved 92.1% delivery promise accuracy but identified critical seasonal bottlenecks during Q1 and Q4 that threaten customer satisfaction.
 
 ---
 
